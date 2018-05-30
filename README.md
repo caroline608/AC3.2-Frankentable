@@ -38,3 +38,49 @@ unique word in it and its frequency count next to it.
   It would be wrong to call this an API call because it's just a text file. Don't try to turn it
   into JSON. Just read it like we're doing with the local file. It should still be done
   asynchronously.
+  
+  # Caroline Cruz	
+
+646.548.6795  
+Cruz.Caroline08@gmail.com  
+[LinkedIn](http://www.linkedin.com/in/caroline-cruz)  
+[GitHub](https://github.com/caroline608)  
+
+## SKILLS
+
+Swift, Xcode, Git, GitHub, JSON, Programmatic Autolayout, Firebase, Core Data, CocoaPods, Web APIs, Storyboard, MapKit, Core Location, Project Management  
+
+## PROJECTS
+
+**SpotSwap - [currently on TestFlight](https://github.com/Yaseen-al/SpotSwap/tree/qa)**  
+* Collaborated with a team of four to develop an efficient way to swap parking spots in NYC
+* Integrated Firebase as a back-end server, utilized real-time database to update live changes on the map, stored user images, and authenticated users
+* Created programmatic views, timer, and objects for swapping logic  
+* Served as the project manager; was responsible for keeping peers on task, planning weekly sprints on Trello, and facilitating daily stand-ups
+  
+**Parent Approved - [Parent Approved](https://github.com/wsmaragh/SafeSpace/tree/dev-caroline3)**    
+* Collaborated in a team of four during New York Open Source hackathon to create “The Yelp of pre-Kindergarten”
+* Developed a map feature using MapKit and Core location to display users location
+* Created a search bar that filters schools by zip code and displayed in a tableview
+* Parsed several JSON to build models of the information displayed to parents
+* Developed a favorites tab where parents can save schools using NSUserDefaults
+
+## EXPERIENCE
+
+**C4Q (Coalition For Queens)**, Long Island City, NY		September 2017 - Present
+*iOS Development Fellowship*  
+* Enrolled in an intensive 9 month, Google-funded software engineering fellowship with a 9% acceptance rate (out of 1500+ applicants) whose graduates are prepared with both technical and professional skills and have been hired as developers at leading companies such as Pinterest, JP Morgan, and Spotify.  Projected graduation: June 2018.
+* Gained hands-on experience with Swift, Git, Data Structures, Algorithms, APIs, and tech principles and culture via both team/individual projects, code reviews, and pair programming.
+   
+**Kobre and Kim LLP**, New York, NY				July 2014 - September 2017
+*Accounting Assistant*  
+* Reconciled bank and credit card statements
+* Assisted with month-end processes and adhered to deadline
+* Performed various accounting and analytical functions related to Accounts Payable: ensuring all the submitted invoices and expense reports had approvals and correspondent backup documentation, overviewed coding and input of invoices, expense reports and credit card vouchers in Elite 3E and chromeRiver, and resolved various issues with vendors and internal staff
+* Prepared, posted and entered journal entries
+
+## EDUCATION
+
+**State University of New York, Plattsburgh**,  
+Bachelor of Science, Accounting, *May 2012*  
+Bachelor of Science, Business Administration, *May 2012*
